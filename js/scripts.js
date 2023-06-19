@@ -113,7 +113,6 @@ for (let addToCard of addToCards) {
       addToCard.parentElement.parentElement.parentElement.firstElementChild
         .nextElementSibling.firstElementChild.lastElementChild.textContent;
 
-        console.log(price);
 
         let prodExist=prods.find(x=>x.id===id);
         if(prodExist===undefined){

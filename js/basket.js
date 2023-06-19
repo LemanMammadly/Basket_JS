@@ -6,7 +6,6 @@ document.addEventListener("DOMContentLoaded", getLocal());
 function getLocal() {
   let basketProd = JSON.parse(localStorage.getItem("basket"));
   prods = basketProd || [];
-  console.log(prods);
 }
 
 let tbody = document.querySelector("#tbody");
