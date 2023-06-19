@@ -3,56 +3,56 @@
 let products = [
   {
     id: 1,
-    img: "/assets/img-1.webp",
+    img: "../assets/img-1.webp",
     name: "Pull & Bear Kadın Kısa kollu Hiroshigue t-shirt'ü 04230358",
     price: 37,
     count:1
   },
   {
     id: 2,
-    img: "/assets/img-2.webp",
+    img: "../assets/img-2.webp",
     name: "Pull & Bear Erkek Parça boyalı çizgili t-shirt 04239512",
     price: 23,
     count:1
   },
   {
     id: 3,
-    img: "/assets/img-3.webp",
+    img: "../assets/img-3.webp",
     name: "Pull & Bear Vazo Grafik Baskılı T-shirt 08230302",
     price: 35,
     count:1
   },
   {
     id: 4,
-    img: "/assets/img-4.webp",
+    img: "../assets/img-4.webp",
     name: "Pull & Bear Erkek Kısa kollu oversize t-shirt 04239500",
     price: 35,
     count:1
   },
   {
     id: 5,
-    img: "/assets/img-5.jpeg",
+    img: "../assets/img-5.jpeg",
     name: "Pull & Bear Kadın Overloklu grafik t-shirt 04230389",
     price: 23,
     count:1
   },
   {
     id: 6,
-    img: "/assets/img-6.webp",
+    img: "../assets/img-6.webp",
     name: "Pull & Bear Erkek İşlemeli kısa kollu t-shirt 04230547",
     price: 34,
     count:1
   },
   {
     id: 7,
-    img: "/assets/img-7.webp",
+    img: "../assets/img-7.webp",
     name: "Pull & Bear Kadın Kısa kollu oversize t-shirt 08241349",
     price: 21,
     count:1
   },
   {
     id: 8,
-    img: "/assets/img-8.webp",
+    img: "../assets/img-8.webp",
     name: "Pull & Bear Erkek Kısa kollu kurbağa desenli t-shirt 07241500",
     price: 29,
     count:1
